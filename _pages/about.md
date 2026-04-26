@@ -42,9 +42,9 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 **L Wang**, P Duan, C Lyu, Z Wang, Z He, N Zheng, Z Ma. (2025), *Communications in Transportation Research*  
 [📄 Paper](https://www.sciencedirect.com/science/article/pii/S2772424725000654) | [💻 Code](https://github.com/georgewanglz2019/MARL4TA)
 
-### EvolveSignal: A Large Language Model Powered Coding Agent for Discovering Traffic Signal Control Algorithms
+### EvolveSignal: A Large Language Model Powered Coding Agent for Discovering Traffic Signal Control Strategies
 **L Wang**, P Duan, H Wang, Y Wang, J Xu, N Zheng, Z Ma. (2025), *Under Review*  
-[📄 Paper](https://arxiv.org/abs/2509.03335)
+[📄 Paper](https://arxiv.org/abs/2509.03335) | [💻 Code](https://github.com/georgewanglz2019/EvolveSignal)
 
 ### Reinforcement learning-based sequential route recommendation for system-optimal traffic assignment
 **L Wang**, P Duan, C Lyu, Z Ma. (2025), *Under Review*  
