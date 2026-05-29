@@ -47,8 +47,8 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 [📄 Paper](https://arxiv.org/abs/2509.03335) | [💻 Code](https://github.com/georgewanglz2019/EvolveSignal)
 
 ### Reinforcement learning-based sequential route recommendation for system-optimal traffic assignment
-**L Wang**, P Duan, C Lyu, Z Ma. (2025), *Under Review*  
-[📄 Paper](https://arxiv.org/abs/2505.20889)
+**L Wang**, P Duan, C Lyu, Z Ma. (2025), *IEEE Open Journal of Intelligent Transportation Systems*  
+[📄 Paper](https://ieeexplore.ieee.org/document/11535462)
 
 ### Data-driven analysis and modeling of individual longitudinal behavior response to fare incentives in public transport
 **L Wang**, X Chen, Z Ma, P Zhang, B Mo, P Duan. (2024), *Transportation*  
