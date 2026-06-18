@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Leizhen Wang - Academic Website"
+title                    : "Yanyan Chen - Academic Website"
 title_separator          : "-"
 name                     : &name "Yanyan Chen"
 description              : &description "PhD Candidate in Data Science and AI at Monash University"
