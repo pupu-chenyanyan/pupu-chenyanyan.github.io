@@ -10,6 +10,7 @@ redirect_from:
 ## About Me
 
 👋 Welcome!
+
 I am a PhD candidate in the faculty of Transportation Science and Engineering at Beihang University (BUAA), Beijing, with a research focus on Autonomous Driving (AD), End-to-end (E2E) frameworks, Foundation Models (FMs), and World Models (WMs) in Intelligent Transportation Systems (ITS). My work lies at the intersection of artificial intelligence and transportation engineering, aiming to improve the efficiency and safety of transport systems. 
 
 Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of Technology** (2026–2027).
