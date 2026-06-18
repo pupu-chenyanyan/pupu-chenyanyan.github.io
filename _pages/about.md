@@ -40,7 +40,8 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
   *Research areas: Autonomous Driving, Environmental Perception*
 
 - **Nanjing Institute of Technology**  
-  Bachelor’s degree in Vehicle Service Engineering  
+  Bachelor’s degree in Vehicle Service Engineering
+  
 ---
 
 
@@ -63,6 +64,7 @@ H Wang, **Y Chen**, Y Cai, L Chen, Y Li, M. Sotelo, Z Li. (2022), *IEEE Transact
 
 
 ### For a full and up-to-date list of my publications: [Google Scholar profile](https://scholar.google.com/citations?user=YhMuZNwAAAAJ&hl=zh-CN).
+
 ---
 
 ## Find Me Online
