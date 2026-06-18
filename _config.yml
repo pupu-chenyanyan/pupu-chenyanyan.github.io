@@ -22,7 +22,7 @@ author:
   avatar           : "yanyan_png.png"
   name             : "Yanyan Chen (陈妍妍)"
   pronouns         : "she/her"
-  bio              : "PhD Candidate in Traffic Engineering at Beihang University.Research interests include Autonomous Driving, End-to-end frameworks, Foundation Models, and World Models"
+  bio              : "PhD Candidate in Traffic Engineering at Beihang University. Research interests include Autonomous Driving, End-to-end frameworks, Foundation Models, and World Models"
   location         : "Stockholm, Sweden"
   employer         : "Beihang University"
   uri              : 
@@ -31,20 +31,20 @@ author:
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=MdeVgWkAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=YhMuZNwAAAAJ&hl=zh-CN"
   inspire-hep      : 
   impactstory      : 
-  orcid            : "https://orcid.org/0000-0001-6523-3057"
+  orcid            : "https://orcid.org/0000-0002-8548-6606"
   semantic         : 
   pubmed           : 
-  researchgate     : "https://www.researchgate.net/profile/Leizhen-Wang-2"
+  researchgate     : 
   scopus           : 
 
   # Repositories and software development
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "georgewanglz2019"
+  github           : "pupu-chenyanyan"
   kaggle           : 
   stackoverflow    : 
 
@@ -59,7 +59,7 @@ author:
   keybase          : 
   instagram        : 
   lastfm           : 
-  linkedin         : "https://www.linkedin.com/in/leizhen-wang-0766a8250/"
+  linkedin         :
   mastodon         : 
   medium           : 
   pinterest        : 
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -138,10 +138,10 @@ og_image                 :
 og_description           :  
 social:
   type                   : Person
-  name                   : "Leizhen Wang"
+  name                   : "Yanyan Chen"
   links: 
-    - "https://scholar.google.com/citations?user=MdeVgWkAAAAJ&hl=en"
-    - "https://github.com/georgewanglz2019"
+    - "https://scholar.google.com/citations?user=YhMuZNwAAAAJ&hl=zh-CN"
+    - "https://github.com/pupu-chenyanyan/"
 
 # Analytics
 analytics:
