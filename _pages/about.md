@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Leizhen Wang - PhD Candidate at Monash University"
+title: "Yanyan Chen - PhD Candidate at Beihang University"
 author_profile: true
 redirect_from: 
   - /about/
