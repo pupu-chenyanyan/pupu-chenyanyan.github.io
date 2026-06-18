@@ -36,7 +36,7 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
   *Research areas: E2E Autonomous Driving, Deep Learning, Foundation Models, World Models*
 
 - **Jiangsu University**  
-  Master’s degree in Vehicle Engineering (2020–2023)
+  Master’s degree in Vehicle Engineering (2020–2023)<br>
   *Research areas: Autonomous Driving, Environmental Perception*
 
 - **Nanjing Institute of Technology**  
