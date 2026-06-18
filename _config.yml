@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yanyan Chen - Academic Website"
 title_separator          : "-"
 name                     : &name "Yanyan Chen"
-description              : &description "PhD Candidate in Data Science and AI at Monash University"
+description              : &description "PhD Candidate in Traffic Engineering at Beihang University"
 url                      : "https://pupu-chenyanyan.github.io" 
 baseurl                  : "" 
 repository               : "pupu-chenyanyan/pupu-chenyanyan.github.io"
@@ -22,9 +22,9 @@ author:
   avatar           : "Leizhen_Lisbon_1.png"
   name             : "Yanyan Chen (陈妍妍)"
   pronouns         : "she/her"
-  bio              : "PhD Candidate in Data Science and Artificial Intelligence at Monash University. Research interests include Large Language Models, Reinforcement Learning, and Urban Transportation Systems."
+  bio              : "PhD Candidate in Traffic Engineering at Beihang University.Research interests include Autonomous Driving, End-to-end frameworks, Foundation Models, and World Models"
   location         : "Stockholm, Sweden"
-  employer         : "Monash University"
+  employer         : "Beihang University"
   uri              : 
   email            : 
 
