@@ -21,6 +21,7 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 - 🤖 Artificial Intelligence & Deep Learning
 - 🖼️ Vision Perception & Future modelling
 - 🚗 Autonomous Driving Applications
+  
 ---
 
 
