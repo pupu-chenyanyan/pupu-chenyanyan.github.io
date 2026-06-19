@@ -48,7 +48,7 @@ Currently, I am also a **visiting PhD student** at the **KTH Royal Institute of 
 ## Selected Publications
 
 ### E3AD: Expert-based End-to-End Autonomous Driving via Task Adapters
-**Y Chen**, C Lin, L Yang, Xu Duan, K Qu, J Zhou, K Guo, D Cao, D Tian. (2025) *IEEE Transactions on Intelligent Transportation Systems (Under Review)* 
+**Y Chen**, C Lin, L Yang, Xu Duan, K Qu, J Zhou, D Cao, D Tian. (2026) *IEEE Transactions on Intelligent Transportation Systems (Under Review)* 
 
 ### DMP: Difference-Guided Motion Prediction for Vision-Centric Autonomous Driving
 **Y Chen**, C Lin, Xu Duan, J Zhou, K Guo, D Zhao, D Cao, D Tian. (2025) *IEEE Transactions on Intelligent Transportation Systems* 
